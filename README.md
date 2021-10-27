@@ -2,45 +2,40 @@
 <div align="center">
 <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
 <a href="https://arbeitnow.com/?utm_source=awesome-github-profile-readme"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=arbeitnow&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
-<!-- <img src="http://hits.dwyl.com/abhisheknaiidu/awesome-github-profile-readme.svg" alt="Hits Badge"/> -->
 <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
 <a href="https://discord.gg/XTW52Kt"><img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join%20Community&color=7289DA" alt="Join Community Badge"/></a>
 <a href="https://twitter.com/abhisheknaiidu" ><img src="https://img.shields.io/twitter/follow/abhisheknaiidu.svg?style=social" /> </a>
 <br>
 
 <i>A curated list of awesome Github Profile READMEs</i>
+  
+<a href="https://github.com/neimarpieper/nlw-heat-node/stargazers"><img src="https://img.shields.io/github/stars/neimarpieper/nlw-heat-node" alt="Stars Badge"/></a>
+<a href="https://github.com/neimarpieper/nlw-heat-node/network/members"><img src="https://img.shields.io/github/forks/neimarpieper/nlw-heat-node" alt="Forks Badge"/></a>
+<a href="https://github.com/neimarpieper/nlw-heat-node/pulls"><img src="https://img.shields.io/github/issues-pr/neimarpieper/nlw-heat-node" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/neimarpieper/nlw-heat-node/issues"><img src="https://img.shields.io/github/issues/neimarpieper/nlw-heat-node" alt="Issues Badge"/></a>
+<a href="https://github.com/neimarpieper/nlw-heat-node/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/neimarpieper/nlw-heat-node?color=2b9348"></a>
+<a href="https://github.com/neimarpieper/nlw-heat-node/blob/master/LICENSE"><img src="https://img.shields.io/github/license/neimarpieper/nlw-heat-node?color=2b9348" alt="License Badge"/></a>
 
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/abhisheknaiidu/awesome-github-profile-readme" alt="Stars Badge"/></a>
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/network/members"><img src="https://img.shields.io/github/forks/abhisheknaiidu/awesome-github-profile-readme" alt="Forks Badge"/></a>
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/pulls"><img src="https://img.shields.io/github/issues-pr/abhisheknaiidu/awesome-github-profile-readme" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/issues"><img src="https://img.shields.io/github/issues/abhisheknaiidu/awesome-github-profile-readme" alt="Issues Badge"/></a>
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/abhisheknaiidu/awesome-github-profile-readme?color=2b9348"></a>
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/blob/master/LICENSE"><img src="https://img.shields.io/github/license/abhisheknaiidu/awesome-github-profile-readme?color=2b9348" alt="License Badge"/></a>
-
-<img alt="Awesome GitHub Profile Readme" src="assets/agpr.gif"> </img>
-
-<i>Loved the project? Please consider [donating](https://paypal.me/abhisheknaiidu) to help it improve!</i>
-
-</div>
+<i>Loved the project? Please consider [donating](https://paypal.me/neimarpieper) to help it improve!</i>
 
 
+<!--
 [![Twitter: NeimarPieper](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
-[![Twitter: NeimarPieper](https://img.shields.io/badge/Tweet--lightgrey?logo=twitter&style=social)](https://twitter.com/ThaiiBraga)
-
-
-[![Linkedin: neimarpieper](https://img.shields.io/badge/-neimarpieper-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/neimarpieper/)](https://www.linkedin.com/in/thaianebraga/)
+-->
+[![Twitter: NeimarPieper](https://img.shields.io/badge/Tweet--lightgrey?logo=twitter&style=social)](https://twitter.com/NeimarPieper)
+[![Linkedin: neimarpieper](https://img.shields.io/badge/-neimarpieper-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/neimarpieper/)](https://www.linkedin.com/in/neimarpieper/)
 [![GitHub Neimar](https://img.shields.io/github/followers/neimarpieper?label=neimarpieper&style=social)](https://github.com/neimarpieper)
-[![GitHub Rocketseat](https://img.shields.io/github/followers/neimarpieper?label=rocketseat&style=social)](https://github.com/rocketseat-education/nlw-heat-node/blob/master/public/index.html)
-
+[![GitHub Rocketseat](https://img.shields.io/github/followers/rocketseat-education?label=rocketseat&style=social)](https://github.com/rocketseat-education)
+</div>
 
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://discord.gg/XTW52Kt">
   <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
-<a href="https://twitter.com/abhisheknaiidu">
+<a href="https://twitter.com/neimarpieper">
   <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/abhisheknaiidu/">
+<a href="https://www.linkedin.com/in/neimarpieper/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
@@ -50,6 +45,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
 
 <br />
+
 
 hi, i'm [Abhishek Naidu](https://abhishknads.me/), a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
