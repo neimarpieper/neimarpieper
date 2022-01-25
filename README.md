@@ -55,7 +55,7 @@
   <a href="https://paypal.me/neimarpieper"><img alt="PayPal" title="PayPal" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/paypal.svg"></a>
  <a href="https://open.spotify.com/user/11102026058?si=MwiQZcq3QEWBPWPyPihJYQ"><img alt="PayPal" title="PayPal" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg"></a>
 <a href="https://instagram.com/neimarpieper" target="_blank"><img alt="Instagram" title="Instagram" height="32" width="32" src="https://www.shopsofos.com/images/icon-ig.png"></a>
-<a target="_blank" href="https://www.instagram.com/sofositalianmarket/"><img alt="Instagram" src="https://www.shopsofos.com/images/icon-ig.png"></a>
+<a target="_blank" href="https://www.instagram.com/sofositalianmarket/"><img alt="Instagram" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcanaltech.com.br%2Fempresa%2Finstagram%2F&psig=AOvVaw3SXVdq0YjT97z-6dcBzZEK&ust=1643195665044000&source=images&cd=vfe&ved=2ahUKEwiu5seA48z1AhXFQ7gEHVKwAT4QjRx6BAgAEAk"></a>
 <a href="https://discord.com/users/581752425858203659" target="_blank"><img alt="Discord" title="Discord" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"></a>
 <a href="https://reddit.com/u/neimarpieper" target="_blank"><img alt="Reddit" title="Reddit" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg"></a>
 <a href="https://t.me/neimarpieper" target="_blank"><img alt="Telegram" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" alt="sujal_ops_cyber" height="32" width="32" /></a>
