@@ -31,11 +31,8 @@
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <p align="left">
   
-<a href="https://discord.gg/XTW52Kt">
-  <img alt="Discord" width="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
 <a href="https://twitter.com/neimarpieper">
-  <img alt="Twitter" width="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img alt="Twitter" title="Twitter" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg">
 </a>
 <a href="https://www.linkedin.com/in/neimarpieper/">
   <img alt="LinkedIN" width="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
@@ -46,18 +43,33 @@
 <a href="mailto:neimarpieper@gmail.com">
   <img alt="GMail" width="42px" src="https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" />
 </a>
-
-
-  <a href="https://github.com/neimarpieper"><img alt="GitHub" title="GitHub" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg"></a>
-  <a href="https://linkedin.com/in/neimarpieper"><img alt="LinkedIn" title="LinkedIn" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"></a>
-  <a href="https://facebook.com/neimarpieper"><img alt="Facebook" title="Facebook" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg"></a>
-  <a href="https://twitter.com/neimarpieper"><img alt="Twitter" title="Twitter" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg"></a>
-  <a href="https://paypal.me/neimarpieper"><img alt="PayPal" title="PayPal" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/paypal.svg"></a>
- <a href="https://open.spotify.com/user/11102026058?si=MwiQZcq3QEWBPWPyPihJYQ"><img alt="PayPal" title="PayPal" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg"></a>
-<a href="https://instagram.com/neimarpieper" target="_blank"><img alt="Instagram" title="Instagram" height="32" width="32" src="https://www.shopsofos.com/images/icon-ig.png"></a>
-<a href="https://discord.com/users/581752425858203659" target="_blank"><img alt="Discord" title="Discord" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"></a>
-<a href="https://reddit.com/u/neimarpieper" target="_blank"><img alt="Reddit" title="Reddit" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg"></a>
-<a href="https://t.me/neimarpieper" target="_blank"><img alt="Telegram" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" alt="sujal_ops_cyber" height="32" width="32" /></a>
+<a href="https://github.com/neimarpieper">
+  <img alt="GitHub" title="GitHub" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg">
+</a>
+<a href="https://linkedin.com/in/neimarpieper">
+  <img alt="LinkedIn" title="LinkedIn" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg">
+  </a>
+<a href="https://facebook.com/neimarpieper">
+  <img alt="Facebook" title="Facebook" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg">
+</a>
+<a href="https://paypal.me/neimarpieper">
+  <img alt="PayPal" title="PayPal" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/paypal.svg">
+</a>
+<a href="https://open.spotify.com/user/11102026058?si=MwiQZcq3QEWBPWPyPihJYQ">
+  <img alt="PayPal" title="PayPal" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg">
+</a>
+<a href="https://instagram.com/neimarpieper" target="_blank">
+  <img alt="Instagram" title="Instagram" height="32" width="32" src="https://www.shopsofos.com/images/icon-ig.png">
+</a>
+<a href="https://discord.com/users/581752425858203659" target="_blank">
+  <img alt="Discord" title="Discord" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg">
+</a>
+<a href="https://reddit.com/u/neimarpieper" target="_blank">
+  <img alt="Reddit" title="Reddit" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg">
+</a>
+<a href="https://t.me/neimarpieper" target="_blank">
+  <img alt="Telegram" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" alt="sujal_ops_cyber" height="32" width="32" />
+</a>
 	
 </p>
 
