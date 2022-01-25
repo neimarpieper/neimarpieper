@@ -28,9 +28,10 @@
 
 </div>
 
-<p align="center">
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+<p align="center">
+  
 <a href="https://twitter.com/neimarpieper">
   <img alt="Twitter" title="Twitter" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg">
 </a>
@@ -65,10 +66,10 @@
   <img alt="Telegram" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" alt="sujal_ops_cyber" height="32" width="32" />
 </a>
 
+</p>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
 
-</p>
 
 <br />
 
