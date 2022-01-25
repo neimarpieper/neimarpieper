@@ -29,16 +29,10 @@
 </div>
 
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<p align="left">
-  
+
+<p align="center">
 <a href="https://twitter.com/neimarpieper">
   <img alt="Twitter" title="Twitter" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg">
-</a>
-<a href="https://www.linkedin.com/in/neimarpieper/">
-  <img alt="LinkedIN" width="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
-  <img alt="Spotify" width="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 <a href="mailto:neimarpieper@gmail.com">
   <img alt="GMail" width="42px" src="https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" />
@@ -56,7 +50,7 @@
   <img alt="PayPal" title="PayPal" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/paypal.svg">
 </a>
 <a href="https://open.spotify.com/user/11102026058?si=MwiQZcq3QEWBPWPyPihJYQ">
-  <img alt="PayPal" title="PayPal" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg">
+  <img alt="Spotify" title="Spotify" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg">
 </a>
 <a href="https://instagram.com/neimarpieper" target="_blank">
   <img alt="Instagram" title="Instagram" height="32" width="32" src="https://www.shopsofos.com/images/icon-ig.png">
